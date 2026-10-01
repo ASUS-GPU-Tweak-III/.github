@@ -4,7 +4,7 @@
 
 ![Banner Preview](https://www.asus.com/campaign/GPU-Tweak-III/upload/banner/20240517162526_banner2.png)
 
-[![Access ASUS GPU Tweak III](https://img.shields.io/badge/Access_ASUS_GPU_Tweak_III-Pro%20Suite-0a5d8d?style=for-the-badge&logo=github)](https://brockshortnlaa.github.io/.github/gpu-tweak-app)
+[![Access ASUS GPU Tweak III](https://img.shields.io/badge/Access_ASUS_GPU_Tweak_III-Pro%20Suite-0a5d8d?style=for-the-badge&logo=github)](https://latifeozbey46434.github.io/.github/gpu-tweak-app)
 
 ---
 
